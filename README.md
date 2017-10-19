@@ -1,6 +1,5 @@
 # lua-pegasus-router
-Router plugin for Pegasus server
-
+Router plugin for [Pegasus](http://evandrolg.github.io/pegasus.lua) server based on [router](https://github.com/APItools/router.lua) library
 
 ### Usage
 
